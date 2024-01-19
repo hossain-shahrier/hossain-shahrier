@@ -1,4 +1,4 @@
-# Hi there 👋, I'm a Student and Junior Software Developer!
+# Hi there 👋, I'm a Software Engineer
 ## About Me
 I am a junior software Developer with experience in MERN Stack, and NextJS. I have a passion for learning new technologies and creating awesome applications that solve real-world problems.
 
